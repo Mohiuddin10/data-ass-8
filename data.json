@@ -1,0 +1,135 @@
+    [
+      {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1513224502586-d1e602410265?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Medical Outreach Program",
+        "category": "health",
+        "categoryColor": "#FF5733",
+        "description": "Support our Medical Outreach Program to provide free health check-ups, vaccinations, and medical consultations to underprivileged communities. Your contribution will help us reach remote areas and ensure that everyone has access to basic healthcare services.",
+        "price": 50,
+        "textColor": "red",
+        "bgColor": "#FF444A"
+      },
+      {
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Empower Through Education",
+        "category": "education",
+        "categoryColor": "#2196F3",
+        "description": "Contribute to our initiative aimed at empowering children through education. Your donation will fund school supplies, educational resources, and scholarships for students in low-income communities, opening doors to a brighter future for them.",
+        "price": 30,
+        "textColor": "#000000",
+        "bgColor": "#FFC107"
+      },
+      {
+        "id": 3,
+        "img": "https://plus.unsplash.com/premium_photo-1677451335829-c863209d463b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Winter Warmth Drive",
+        "category": "clothing",
+        "categoryColor": "#9C27B0",
+        "description": "Join our Winter Warmth Drive to provide warm clothing, blankets, and essentials to those facing harsh winter conditions. Your support will bring warmth and comfort to individuals and families struggling to stay cozy during the cold months.",
+        "price": 20,
+        "textColor": "#FFFFFF",
+        "bgColor": "#FF9800"
+      },
+      {
+        "id": 4,
+        "img": "https://plus.unsplash.com/premium_photo-1661775317533-2163ba4dbc93?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Feeding Hope Campaign",
+        "category": "food",
+        "categoryColor": "#E91E63",
+        "description": "Participate in our Feeding Hope Campaign to ensure that no one in our community goes to bed hungry. Your donation will support local food banks, community kitchens, and meal programs, providing nourishment to those in need.",
+        "price": 10,
+        "textColor": "#FFFFFF",
+        "bgColor": "#607D8B"
+      },
+      {
+        "id": 5,
+        "img": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?q=80&w=2047&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Maternal Care Initiative",
+        "category": "health",
+        "categoryColor": "#FF5733",
+        "description": "Empower mothers and promote maternal health with our Maternal Care Initiative. Your contribution will assist in providing prenatal care, nutrition support, and maternal education to ensure healthy pregnancies and childbirth in underserved communities.",
+        "price": 50,
+        "textColor": "#FFFFFF",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "id": 6,
+        "img": "https://plus.unsplash.com/premium_photo-1676998931123-75789162f170?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Tech for Schools Program",
+        "category": "education",
+        "categoryColor": "#2196F3",
+        "description": "Bridge the digital divide in education by supporting our Tech for Schools Program. Your donation will help provide schools with technological resources, such as computers and internet access, ensuring that students have the tools they need for a modern education.",
+        "price": 30,
+        "textColor": "#000000",
+        "bgColor": "#FFC107"
+      },
+      {
+        "id": 7,
+        "img": "https://plus.unsplash.com/premium_photo-1677234148135-2bb4f10f6332?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Sustainable Fashion for All",
+        "category": "clothing",
+        "categoryColor": "#9C27B0",
+        "description": "Promote sustainable and ethical fashion with our initiative to provide eco-friendly and affordable clothing options to those in need. Your support will contribute to reducing fashion waste and making a positive impact on the environment.",
+        "price": 20,
+        "textColor": "#FFFFFF",
+        "bgColor": "#FF9800"
+      },
+      {
+        "id": 8,
+        "img": "https://images.unsplash.com/photo-1599059813005-11265ba4b4ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Community Garden Project",
+        "category": "food",
+        "categoryColor": "#E91E63",
+        "description": "Grow a healthier community by supporting our Community Garden Project. Your donation will help establish community gardens, providing fresh and nutritious produce to local residents, fostering food security and sustainability.",
+        "price": 10,
+        "textColor": "#FFFFFF",
+        "bgColor": "#607D8B"
+      },
+      {
+        "id": 9,
+        "img": "https://images.unsplash.com/photo-1579600161224-cac5a2971069?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Mental Health Awareness Campaign",
+        "category": "health",
+        "categoryColor": "#FF5733",
+        "description": "Break the stigma surrounding mental health by contributing to our Mental Health Awareness Campaign. Your support will fund awareness programs, counseling services, and resources to promote mental well-being in our communities.",
+        "price": 50,
+        "textColor": "#FFFFFF",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "id": 10,
+        "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2022&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Literacy for All Initiative",
+        "category": "education",
+        "categoryColor": "#2196F3",
+        "description": "Empower individuals through literacy with our Literacy for All Initiative. Your donation will support adult and child literacy programs, providing the gift of reading and writing to those who may have limited access to education.",
+        "price": 30,
+        "textColor": "#000000",
+        "bgColor": "#FFC107"
+      },
+      {
+        "id": 11,
+        "img": "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Dress for Success Program",
+        "category": "clothing",
+        "categoryColor": "#9C27B0",
+        "description": "Support individuals in their journey towards professional success with our Dress for Success Program. Your contribution will provide professional clothing and accessories to help people make a positive impression in job interviews and the workplace.",
+        "price": 20,
+        "textColor": "#FFFFFF",
+        "bgColor": "#FF9800"
+      },
+      {
+        "id": 12,
+        "img": "https://plus.unsplash.com/premium_photo-1661775311740-7eb652fa31cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "School Lunch Program",
+        "category": "food",
+        "categoryColor": "#E91E63",
+        "description": "Fight child hunger and promote education with our School Lunch Program. Your donation will support the provision of nutritious meals to students, ensuring they have the energy and focus to succeed in their academic endeavors.",
+        "price": 10,
+        "textColor": "#FFFFFF",
+        "bgColor": "#607D8B"
+      }
+    ]
+  
